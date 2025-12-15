@@ -1,0 +1,8 @@
+/env/
+/__pycache__/
+script.py
+send_mail.py
+ppe_violations.log 
+/source_files/
+/assets/
+steps.txt
